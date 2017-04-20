@@ -6,6 +6,7 @@
             "email": "corycollier@corycollier.com"
         }
     ],
+    "license" : "MIT",
     "require": {
         "guzzlehttp/guzzle": "^6.2",
         "symfony/dom-crawler": "^3.2",
